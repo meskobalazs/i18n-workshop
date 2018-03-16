@@ -1,0 +1,9 @@
+data/org.gnome.Vala-Hello-World.desktop.in
+data/org.gnome.Vala-Hello-World.appdata.xml.in
+data/org.gnome.Vala-Hello-World.gschema.xml
+src/window.ui
+
+src/main.vala
+src/window.vala
+
+

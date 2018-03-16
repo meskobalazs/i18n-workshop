@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="vala-hello-world">
+	<schema id="org.gnome.Vala-Hello-World" path="/org/gnome/Vala-Hello-World/">
+	</schema>
+</schemalist>
